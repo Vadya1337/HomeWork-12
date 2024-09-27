@@ -8,7 +8,6 @@ public class Author {
         this.lastName = lastName;
 
     }
-
     public String getName() {
         return this.name;
     }
